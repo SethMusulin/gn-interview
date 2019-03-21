@@ -1,7 +1,7 @@
 ## Interview App
 This is a simple boilerplate shell for creating a small application.  
 
-Please create a small app that shows a list of appointments and details. A mockup has been provided ('appt-list.pdf'') in the root directory and a small amount of data has been provided in the '/data' directory. 
+Please create a small app that shows a list of appointments and details. A mockup has been provided ('appt-list.jpg'') in the root directory and a small amount of data has been provided in the '/data' directory. 
 
 When a user clicks on the 'Info' button, the details on the right hand side should change to reflect the currently selected appointment. 
 
