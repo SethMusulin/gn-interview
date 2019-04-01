@@ -1,13 +1,18 @@
 ## Interview App
 This is a simple boilerplate shell for creating a small application.  
 
-Please create a small app that shows a list of appointments and details. A mockup has been provided ('appt-list.jpg'') in the root directory and a small amount of data has been provided in the '/data' directory. 
+Please create a small chat application with two main pages. The first page will be a form with an input for providing your username and a button to enter the chat room. 
 
-When a user clicks on the 'Info' button, the details on the right hand side should change to reflect the currently selected appointment. 
+The second page will be the chat room itself, with a list of messages that have been sent and a form with an input and a button for submitting messages.
 
+A primary restriction you have is that, because this will be an embeddable widget, the application must not affect the browser history of the client.   
+
+Due to time constraints, don't worry about perfect styling or testing, but let us know how you would do both.  
+ 
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install `
 
 ### `npm start`
 
@@ -21,4 +26,7 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.<br>
 
-![Image of Mockup](./appt-list.jpg)
+## Mockups
+
+![Chat room enetry](./chat_room_entry.jpg)
+![Chat room](./chat_room.jpg)
